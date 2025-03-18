@@ -31,7 +31,7 @@ As mentioned, the aim of the project was to compare multiple ML models to see wh
 5) Ridge Regression: GridSearchCV is used to tune the value of alpha, with the optimal value coming out to 10.  A Ridge model is fitted and evaluated using alpha=10.0.
 
 # Results
-Each model eas evaluated for Mean Squared Error (MSE), Mean Absolute Error (MAE), Root MSE, and R^2 value.  The results are summarized below:
+Each model was evaluated for Mean Squared Error (MSE), Mean Absolute Error (MAE), Root MSE, and R^2 value.  The results are summarized below:
 
 | Model | Mean Squared Error | Mean Absolute Error | Root Mean Squared Error | R^2 |
 | --- | --- | --- | --- | --- |
