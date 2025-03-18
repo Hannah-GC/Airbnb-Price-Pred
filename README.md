@@ -16,7 +16,9 @@ StandardScaler was applied to numerical columns to reduce the effect of outliers
 EDA was performed for various numerical features to observe data distributions.  Some key observations include:
 
 -Target variable: A histogram of the target variable, log_price, shows an approximate normal distribution with a mean of about 4.5.
+
 -Amenities: Histograms of amenities such as number of accomodates, number of bathrooms, etc. show common trends in how many guests the Airbnbs are designed to accomodate.  Most Airbnbs seem to accomodate 1-2 people, having 1 bedroom, 1 bathroom, etc.
+
 -Correlation heatmap: Reveals highly correlated features.  It can be seen that accomodates, bedrooms, and beds have higher correlation with each other.
 
 Further exploratory analysis can be viewed in the code file.
